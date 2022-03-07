@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Dao/VideoDAO.java=UTF-8
+encoding//src/main/java/Filter/AuthFilter.java=UTF-8
+encoding//src/main/java/Filter/ViewCountFilter.java=UTF-8
+encoding//src/main/java/Servlet/AccountServlet.java=UTF-8
+encoding//src/main/java/Servlet/FavoriteServlet.java=UTF-8
+encoding//src/main/webapp/views/admin/nav.jsp=UTF-8

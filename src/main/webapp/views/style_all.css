@@ -1,0 +1,52 @@
+/* Carousel styling */
+#introCarousel,
+.carousel-inner,
+.carousel-item,
+
+.carousel-item:nth-child(1) {}
+
+.carousel-item:nth-child(2) {}
+
+.carousel-item:nth-child(3) {}
+.bg-1{
+    background-image: url('/OnlineEntertaiment/upload/images/background1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.bg-2{
+    background-image: url('/OnlineEntertaiment/upload/images/background2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 20%;
+}
+.bg-3{
+    background-image: url('/OnlineEntertaiment/upload/images/background3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 20%;
+}
+.card{
+    overflow: hidden;
+}
+
+/* Height for devices larger than 576px */
+#introCarousel {
+    margin-top: -58.59px;
+}
+
+.navbar .nav-link {
+    color: #fff !important;
+}
+.page-link{
+    color: white;
+}
+.card-title{
+    color: white;
+}
+#ls-btn{
+    display: none;
+}
+#box-card:hover #ls-btn{
+    display: block;
+}
